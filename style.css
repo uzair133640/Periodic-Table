@@ -1,0 +1,42 @@
+.heading{
+    font-size: 15px;
+    background-color: yellow;
+}
+td{
+    border: 1px solid black;
+    width: 35px;
+    text-align: center;
+    padding: 5px;
+    
+}
+.border-none{
+    border: none;
+}
+.orange{
+    background-color: orange;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.grey{
+    background-color: gray;
+}
+.pink{
+    background-color: pink;
+
+}
+.brown{
+    background-color: brown;
+}
+.light_pink{
+    background-color: lightpink;
+}
+.light{
+    background-color: lightyellow;
+}
